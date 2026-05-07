@@ -402,9 +402,9 @@ static.taxi.yandex.ru - раздача статики (карты, surge-кар�
 | **Kubernetes Nodes** | 16 | 8 vCPU / 32 GB RAM<br>Disk: 50 GB NVMe | 128 | 512 | 272 500 ₽ | 
 | **PostgreSQL**| 4 | 16 vCPU / 64 GB RAM<br>Disk: 500 GB SSD | 64 | 256 | 190 000 ₽ |
 | **ClickHouse** | 4 | 8 vCPU / 32 GB RAM<br>Disk: 2 TB NVMe | 32 | 128 | 50 000 ₽ |
-| **Redis**| 2 |  2 vCPU / 8 GB RAM | 4 | 16 | 24 000 ₽ |
-| **Kafka** | 3 | 4 vCPU / 16 GB RAM<br>Disk: 500 GB NVMe | 12 | 48 | 20 000 ₽ | 
-| **ИТОГО** | | | 216 | 928 | 556 500 ₽ |
+| **Redis**| 2 |  2 vCPU / 8 GB RAM | 4 | 16 | 44 000 ₽ |
+| **Kafka** | 3 | 4 vCPU / 16 GB RAM<br>Disk: 500 GB NVMe | 12 | 48 | 60 000 ₽ | 
+| **ИТОГО** | | | 216 | 928 | 616 500 ₽ |
 
 ---
 
