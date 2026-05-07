@@ -399,7 +399,7 @@ static.taxi.yandex.ru - раздача статики (карты, surge-кар�
 
 | Группа серверов | Кол-во | Конфигурация | CPU (vCPU) | RAM (GB) | Стоимость (руб/мес) |
 | :--- | :---: | :--- | :---: | :---: | :---: |
-| **Kubernetes Nodes** | 15 | 8 vCPU / 32 GB RAM<br>Disk: 50 GB NVMe | 120 | 480 | 172 500 ₽ | 
+| **Kubernetes Nodes** | 16 | 8 vCPU / 32 GB RAM<br>Disk: 50 GB NVMe | 120 | 480 | 172 500 ₽ | 
 | **PostgreSQL**| 4 | 4 vCPU / 16 GB RAM<br>Disk: 500 GB SSD | 16 | 64 | 30 000 ₽ |
 | **ClickHouse** | 4 | 8 vCPU / 32 GB RAM<br>Disk: 2 TB NVMe | 32 | 128 | 50 000 ₽ |
 | **Redis**| 2 |  2 vCPU / 8 GB RAM | 4 | 16 | 24 000 ₽ |
